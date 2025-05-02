@@ -10,8 +10,8 @@ This repository contains a complete machine learning pipeline using the **K-Near
 - `K_Nearest_Neighbor.ipynb`  
   ➤ Jupyter Notebook with all code implementations, visualizations, and explanations for training and evaluating a KNN classifier.
 
-- `data/`  
-  ➤ (Optional) Folder containing the dataset used, e.g., `heart.csv`, `iris.csv`, etc.
+- `iris(1).csv`  
+  ➤ Folder containing the dataset used is Iris
 
 ---
 
